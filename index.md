@@ -42,6 +42,13 @@ For your first milestone, describe what your project is and how you plan to buil
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+# Starter Project - Weevil Eye LED Bug
+Design:
+The premise of this project was to have two leds light up when it is dark. The light would be received by a photocell, which would generate electricity. If the generated electricity would be within a certain voltage, the transistor would switch on. Afterwards, there would be three resistors which would limit the current. Finaly, the current would light up the leds. I installed all these components via soldering.
+
+Challenges:
+While making this project, I encountered various issues. The first of these challenges came up, when I actually finished the project, but instead of the weevil eye only lighting up when it was dark, it always light up. The staff and I determined that the transistor was broken, and we needed to replace it. Thus, we tried to desolder the battery and transistor, but unfortunately, during the process we burned the photocell and had to re-start. The 2nd attempt was much more successful. I did encounter one issue though, in which I accidently install the photocell upside down. Fortunately, this was easily fixed as all I needed to do was de-solder it and re-attach it the right way up. Then I just attach the battery holder and it worked!
+
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
 
