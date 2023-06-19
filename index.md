@@ -38,7 +38,7 @@ For milestone 1, I completed all the hardware invovled with my pen plotter proje
 
 Design:
 
-To build this project, I first needed to build the 5 main componets. This included building the frame and parts for the two motor components, building the component for the pen holder, constructing the piece opposite to the oen holder, just to keep the machine stable, and the center piece, which connects all the different components together. Afterwards, I attached all the different components together via the 4 steel rods. These steel rods pass through all the components and connect them. Then, I simply installed the timing belts, which is what the motors would be moving and consequently the machine too. Finally,I just had to install the electrical wirings for the motors, and steering gear, and attachem them to the arduino. 
+To build this project, I first needed to construct the 5 main componets. This included building the frame and parts for the two motor components, building the component for the pen holder, constructing the piece opposite to the oen holder, just to keep the machine stable, and the center piece, which connects all the different components together. Afterwards, I attached all the different components together via the 4 steel rods. These steel rods pass through all the components and connect them. Then, I simply installed the timing belts, which is what the motors would be moving and consequently the machine too. Finally, I just had to install the electrical wirings for the motors, and steering gear, and attachem them to the arduino. 
 
 Challenges:
 
