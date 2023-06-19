@@ -1,11 +1,11 @@
 # Pen Plotter Project
-Imagine a robot that can draw any image you want, with maximum precision, and moderate speed. The pen plotter machine accomplishes just this! It is based upon two motors, responsible for moving the machine upon the x and y coordinates, and a steering gear to lift the pen up and down, all connected to an arduino board.
+Imagine a robot that can draw any image you want, with maximum precision, and moderate speed. The pen plotter machine accomplishes just this! Based upon a two axis system, the pen uses an arduino board to power its motors.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Offir C | Mountain View High School | Computer Science | Incoming Junior
 
-**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
+<!**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**>
 
 ![Headstone Image](logo.svg)
   
