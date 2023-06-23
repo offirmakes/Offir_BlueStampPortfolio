@@ -10,11 +10,24 @@ Imagine a robot that can draw any image you want, with maximum precision, and mo
 ![Headstone Image](logo.svg)
   
 # Final Milestone
-For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
+Overview:
+
+For milestone 3, I desgined my project to be able to draw a custom image. 
+
+Design:
+Making the pen plotter draw any image is a multi step process.
+1: Find an image, preferably not too complex and involving few colors.
+2: Download inkscape and load your image. Turn on edge detection for the image and save it as a svg file.
+3. Open jscut and load your svg file in. Set all measurements to mm, and create an operation. Select the engrave option, and download your file as g-code.
+4. The g-code file in its current state, does not have the commands to lift the pen up and down. Thus, open an editor, I used notepad++, and replace very instance of retract
+
+Challenges:
+While this process may seem simple, I did run into a few issues. At first, it draw a very messy and abstract version of my image. I was very puzzled as to why this happened, but then when I looked at the hardware I realized that the timing belt, the component responsible for moving the machine, was very loose. Turns out that I forgot to strap the timing belt to stop it from loosening out. In addition, I faced a small issue in which the pen plotter wasn't drawing the image in the middle of the page. This issue is very simple to fix as all what I needed to do was align the pen plotter a little to the left.   
+For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
+- Technical details of what you've accomplished and how they contribute to the final goal
+- What has been surprising about the project so far
+- Previous challenges you faced that you overcame
+- What needs to be completed before your final milestone 
 
 **Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
@@ -26,7 +39,7 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 Overview:
 
-For milestone 2, I implemented the software invovled with my project. 
+For milestone 2, I implemented the software invovled with my project so that it can draw a given image. 
 
 Design:
 To build the software portion of my project, I used the candle software. The candle software uses g-code in order to direct the motors and lift the pen up. Unlike in the next milestone, the g-code was given to me, and so I just plugged the g-code into in the candle software and it worked!
