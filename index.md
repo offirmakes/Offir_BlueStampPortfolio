@@ -8,7 +8,7 @@ Imagine a robot that can draw any image you want, with maximum precision, and mo
 <!---**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
 ![Headstone Image](logo.svg)
-  
+-->
 # Final Milestone
 Overview:
 
@@ -29,7 +29,6 @@ Altough this process involved a lot of steps, I only faced one major issue. When
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
--->
 # Second Milestone
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IUFbGnLYD8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
