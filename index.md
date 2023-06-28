@@ -31,7 +31,6 @@ Making the pen plotter draw any image is a multi step process.
 Challenges:
 Altough this process involved a lot of steps, I only faced one major issue. When I first ran the code, the pen did not lift up at all. This was because the g-code I gave it did not contain the commands to lift the pen, instead it just said retract and plunge in a comment. I fixed this by uploading the code to notepad++ and replacing these commands with the proper line of code. This is step 4 of the process.
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 # Second Milestone
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IUFbGnLYD8A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -46,7 +45,6 @@ To build the software portion of my project, I used the candle software. The can
 Challenges:
 While this process may seem simple, I did run into a few issues. At first, it draw a very messy and abstract version of my image. I was very puzzled as to why this happened, but then when I looked at the hardware I realized that the timing belt, the component responsible for moving the machine, was very loose. Turns out that I forgot to strap the timing belt to stop it from loosening out. In addition, I faced a small issue in which the pen plotter wasn't drawing the image in the middle of the page. This issue is very simple to fix as all what I needed to do was align the pen plotter a little to the left.   
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
 
 # First Milestone
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OKzIARZuX_Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -78,21 +76,7 @@ While making this project, I encountered various issues. The first of these chal
 # Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
 
-# Code
-Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
 
-```c++
-void setup() {
-  // put your setup code here, to run once:
-  Serial.begin(9600);
-  Serial.println("Hello World!");
-}
-
-void loop() {
-  // put your main code here, to run repeatedly:
-
-}
-```
 # Bill of Materials
 Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
 Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs. 
