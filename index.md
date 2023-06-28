@@ -1,5 +1,5 @@
-# Pen Plotter Project
-Imagine a robot that can draw any image you want, with maximum precision, and moderate speed. The pen plotter machine accomplishes just this! Based upon a two axis system, the pen uses an arduino board to power its motors.
+# Pen Plotter
+Imagine a robot that can draw any image, with maximum precision, and moderate speed. The pen plotter machine accomplishes just this! Based upon a two axis system, the pen uses an arduino board to power its motors.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
