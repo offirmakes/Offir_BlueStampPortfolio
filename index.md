@@ -79,20 +79,19 @@ Here's where you'll put images of your schematics. [Tinkercad](https://www.tinke
 
 # Bill of Materials
 
-| **Part** | **Price** | **Link** |
-|:--:|:--:|:--:|:--:|
-| 2 PCS 8mm polished rods 450mm | $18.99 | <a href="(https://www.amazon.com/Linear-Motion-inches-Hardened-Printer/dp/B08JGHHQCN/ref=asc_df_B08JGHHQCN/?tag=hyprod-20&linkCode=df0&hvadid=564821841578&hvpos=&hvnetw=g&hvrand=14700202961006999446&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032171&hvtargid=pla-1362812653839&psc=1)/"> Link </a> |
-|:--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|
+| 2 PCS 8mm polished rods 450mm | $18.99 | <a href="https://www.amazon.com/Linear-Motion-inches-Hardened-Printer/dp/B08JGHHQCN/ref=asc_df_B08JGHHQCN/?tag=hyprod-20&linkCode=df0&hvadid=564821841578&hvpos=&hvnetw=g&hvrand=14700202961006999446&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032171&hvtargid=pla-1362812653839&psc=1/"> Link </a> |
+|:--:|:--:|:--:|
 | 2 PCS 8mm polished rods 360mm | $9.95 | <a href="https://vxb.com/products/8mm-shaft-370mm-14-567-hardened-rod-linear-motion?variant=43580347646187&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&tm=tt&ap=gads&aaid=adaxXEtq4CiMg&gclid=EAIaIQobChMIypf0hIPn_wIV2R-tBh2nsQfpEAQYAiABEgJjuvD_BwE/"> Link </a> |
-|:--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|
 | Timing belt 1.5m | $10.99 | <a href="(https://www.amazon.com/Houkr-Printer-Timing-Closed-Perimeter/dp/B085NMDTDM/ref=asc_df_B085NMDTDM/?tag=hyprod-20&linkCode=df0&hvadid=459531815212&hvpos=&hvnetw=g&hvrand=15065551830845644261&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032171&hvtargid=pla-914200992454&psc=1)/"> Link </a> |
-|:--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|
 | Linear Guide Assembly | $19.68 | <a href="https://www.amazon.com/CNCMANS-Bearing-Carriage-Printer-15-74inch/dp/B09QPHP21S/ref=asc_df_B09QPHP21S/?tag=hyprod-20&linkCode=df0&hvadid=658706434542&hvpos=&hvnetw=g&hvrand=6445786232967847568&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032171&hvtargid=pla-2080939290445&psc=1&gclid=EAIaIQobChMIosu6uobn_wIVdQKtBh2mDQ4mEAQYBiABEgLQ_vD_BwE/"> Link </a> |
-|:--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|
 | 42 Stepper motor | $9.99 | <a href="https://www.amazon.com/Creativity-Stepper-Stepping-Extruder-Compatible/dp/B09L81TWYC/ref=asc_df_B09L81TWYC/?tag=hyprod-20&linkCode=df0&hvadid=652590917229&hvpos=&hvnetw=g&hvrand=7593275423695765603&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032171&hvtargid=pla-2061832990449&psc=1&gclid=EAIaIQobChMIzLnBgofn_wIVGzKtBh0QpADtEAQYASABEgLdDPD_BwE"> Link </a> |
-|:--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|
 | Arduino controller | $26.99 | <a href="https://www.amazon.com/Control-Engraving-Machine-Motherboard-Corexy/dp/B09DWYRWP8"> Link </a> |
-|:--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|
 | MG90 steering gear | $8.49 | <a href="https://www.amazon.com/Replace-Helicopter-Airplane-Controls-Vehicle/dp/B09KXM5L7Z/ref=asc_df_B09KXM5L7Z/?tag=hyprod-20&linkCode=df0&hvadid=647294738363&hvpos=&hvnetw=g&hvrand=5834326162893392175&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032171&hvtargid=pla-1747954003806&psc=1&gclid=EAIaIQobChMI_Pe17onn_wIVsB6tBh2x6A8XEAQYASABEgIGXPD_BwE"> Link </a> |
-|:--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|
 | Power Supply | $12.99 | <a href="https://www.amazon.com/COOLM-Adapter-100-240V-Security-Monitoring/dp/B07D5C745W/ref=asc_df_B07D5C745W/?tag=hyprod-20&linkCode=df0&hvadid=647221673261&hvpos=&hvnetw=g&hvrand=14295083690959649477&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032171&hvtargid=pla-1948335663726&psc=1&gclid=EAIaIQobChMIob3o-Yrn_wIV5h-tBh0xOQG2EAQYASABEgJfz_D_BwE"> Link </a> |
