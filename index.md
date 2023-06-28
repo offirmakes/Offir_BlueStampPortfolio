@@ -79,6 +79,7 @@ Here's where you'll put images of your schematics. [Tinkercad](https://www.tinke
 
 # Bill of Materials
 
+|---||---||---|
 | 2 PCS 8mm polished rods 450mm | $18.99 | <a href="https://www.amazon.com/Linear-Motion-inches-Hardened-Printer/dp/B08JGHHQCN/ref=asc_df_B08JGHHQCN/?tag=hyprod-20&linkCode=df0&hvadid=564821841578&hvpos=&hvnetw=g&hvrand=14700202961006999446&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032171&hvtargid=pla-1362812653839&psc=1/"> Link </a> |
 | 2 PCS 8mm polished rods 360mm | $9.95 | <a href="https://vxb.com/products/8mm-shaft-370mm-14-567-hardened-rod-linear-motion?variant=43580347646187&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&tm=tt&ap=gads&aaid=adaxXEtq4CiMg&gclid=EAIaIQobChMIypf0hIPn_wIV2R-tBh2nsQfpEAQYAiABEgJjuvD_BwE/"> Link </a> |
 | Timing belt 1.5m | $10.99 | <a href="(https://www.amazon.com/Houkr-Printer-Timing-Closed-Perimeter/dp/B085NMDTDM/ref=asc_df_B085NMDTDM/?tag=hyprod-20&linkCode=df0&hvadid=459531815212&hvpos=&hvnetw=g&hvrand=15065551830845644261&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032171&hvtargid=pla-914200992454&psc=1)/"> Link </a> |
