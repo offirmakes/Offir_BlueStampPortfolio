@@ -10,7 +10,7 @@ Imagine a robot that can draw any image, with maximum precision, and moderate sp
 ![Headstone Image](logo.svg)
 -->
 # Results
-IMG-0992.jpg
+(Photos/Camera.jpg)
 
 # Final Milestone
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ERoyIy66yZs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
