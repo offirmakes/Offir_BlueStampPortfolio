@@ -11,9 +11,13 @@ Imagine a robot that can draw any image, with maximum precision, and moderate sp
 -->
 # Results
 (Photos/Circle.jpg)
+
 (Photos/Camera.jpg)
+
 (Photos/Car.jpg)
+
 (Photos/Dinosaur.jpg)
+
 (Photos/Potrait.jpg)
 
 # Final Milestone
