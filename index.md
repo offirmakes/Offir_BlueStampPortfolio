@@ -28,6 +28,7 @@ Overview:
 For milestone 3, I desgined my project to be able to draw a custom image. 
 
 Design:
+
 Making the pen plotter draw any image is a multi step process.
 
 1: Find an image, preferably not too complex and involving few colors.
