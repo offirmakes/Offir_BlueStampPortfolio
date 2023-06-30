@@ -5,7 +5,7 @@ Imagine a robot that can draw any image, with maximum precision, and moderate sp
 |:--:|:--:|:--:|:--:|
 | Offir C | Mountain View High School | Computer Science | Incoming Junior
 
-<!---**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
+**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
 ![Headstone Image](Photos/Camera.jpg)
 
