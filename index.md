@@ -10,9 +10,7 @@ Imagine a robot that can draw any image, with maximum precision, and moderate sp
 ![Headstone Image]()
 -->
 # Results
-![Headstone Image](Photos/Circle.jpg)
-
-![Headstone Image](Photos/Camera.jpg)
+![Headstone Image](Photos/Circle.jpg) ![Headstone Image](Photos/Camera.jpg)
 
 ![Headstone Image](Photos/Car.jpg)
 
