@@ -32,11 +32,11 @@ Design:
 Making the pen plotter draw any image is a multi step process.
 
 1: Find an image, preferably not too complex and involving few colors.
-
+![Headstone Image](Photos/potrait2.jpg)
 2: Download inkscape and load your image. Turn on edge detection for the image and save it as a svg file.
-
+![Headstone Image](Photos/inkscape-image.jpg)
 3: Open jscut and load your svg file in. Set all measurements to mm, and create an operation. Select the engrave option, and download your file as g-code.
-
+![Headstone Image](Photos/jscut.png)
 4: The g-code file in its current state, does not have the commands to lift the pen up and down. Thus, open an editor, I used notepad++, and replace ever instance of the retract command with M5 and M3S1000 of plunge
 (Ctrl H to replace).
 
