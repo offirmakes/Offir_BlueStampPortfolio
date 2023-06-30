@@ -48,6 +48,7 @@ Making the pen plotter draw any image is a multi step process.
 ![Headstone Image](Photos/portrait2-candle.png)
 
 Challenges:
+
 Altough this process involved a lot of steps, I only faced one major issue. When I first ran the code, the pen did not lift up at all. This was because the g-code I gave it did not contain the commands to lift the pen, instead it just said retract and plunge in a comment. I fixed this by uploading the code to notepad++ and replacing these commands with the proper line of code. This is step 4 of the process.
 
 
