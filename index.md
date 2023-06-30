@@ -35,7 +35,7 @@ Making the pen plotter draw any image is a multi step process.
 ![Headstone Image](Photos/potrait2.jpg)
 
 2: Download inkscape and load your image. Turn on edge detection for the image and save it as a svg file.
-![Headstone Image](Photos/inkscape-image.jpg)
+![Headstone Image](Photos/inkscape-image.png)
 
 3: Open jscut and load your svg file in. Set all measurements to mm, and create an operation. Select the engrave option, and download your file as g-code.
 ![Headstone Image](Photos/jscut.png)
