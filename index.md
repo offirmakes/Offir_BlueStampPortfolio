@@ -39,8 +39,9 @@ Making the pen plotter draw any image is a multi step process.
 ![Headstone Image](Photos/jscut.png)
 4: The g-code file in its current state, does not have the commands to lift the pen up and down. Thus, open an editor, I used notepad++, and replace ever instance of the retract command with M5 and M3S1000 of plunge
 (Ctrl H to replace).
-
+![Headstone Image](Photos/portrait2-notepad.png)
 5: Then, simply enter the g-code into a grbl software.
+![Headstone Image](Photos/portrait2-candle.png)
 
 Challenges:
 Altough this process involved a lot of steps, I only faced one major issue. When I first ran the code, the pen did not lift up at all. This was because the g-code I gave it did not contain the commands to lift the pen, instead it just said retract and plunge in a comment. I fixed this by uploading the code to notepad++ and replacing these commands with the proper line of code. This is step 4 of the process.
