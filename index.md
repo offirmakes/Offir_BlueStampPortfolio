@@ -10,14 +10,17 @@ Imagine a robot that can draw any image, with maximum precision, and moderate sp
 ![Headstone Image]()
 -->
 # Results
+Image from 2nd milestone (g-code was given to me):
 ![Headstone Image](Photos/Circle.jpg) 
 
+Images from 3rd milestone (images from the web in which I made I my own g-code):
 ![Headstone Image](Photos/Camera.jpg)
 
 ![Headstone Image](Photos/Car.jpg)
 
 ![Headstone Image](Photos/Dinosaur.jpg)
 
+Image from modifcation:
 ![Headstone Image](Photos/Potrait.jpg)
 
 # Final Milestone
