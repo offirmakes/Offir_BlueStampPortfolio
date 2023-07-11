@@ -101,7 +101,7 @@ Electric Circuit of Arduino Mega 2560:
 ![Headstone Image](Photos/PenPlotterBoard.png)
 
 Electric Diagriam of Modification (Arduino Uno R3 & CNC Shield):
-![Headstone Image](Photos/Pen-PLotter-Circuit-Diagram.webp)
+![Headstone Image](Photos/RIFF2�)
 
 # Bill of Materials
 
