@@ -100,8 +100,8 @@ While making this project, I encountered various issues. The first of these chal
 Electric Circuit of Arduino Mega 2560:
 ![Headstone Image](Photos/PenPlotterBoard.png)
 
-Electric Diagriam of Modification (Arduino Uno R3 & CNC Shield):
-![Headstone Image](Photos/RIFF2�)
+Electric Diagram of Modification (Arduino Uno R3 & CNC Shield):
+![Headstone Image](Photos/Pen-Plotter-Circuit-Diagram.webp)
 
 # Bill of Materials
 
