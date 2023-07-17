@@ -73,6 +73,9 @@ While this process may seem simple, I did run into a few issues. At first, it dr
 # First Milestone
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OKzIARZuX_Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+Guide:
+<a href="https://cdn.sparkfun.com/datasheets/Kits/Weevil_Eye_KitCard-07-Online_only.pdf"> Link </a>
+
 Overview:
 
 For milestone 1, I completed all the hardware invovled with my pen plotter project. This meant that I built all the components, attached them together, and wired all the electrical parts together. With this milestone complete, I had a fully built pen plotter.
@@ -87,6 +90,7 @@ I faced many issues when building this project. To begin, there were many screws
 
 # Starter Project - Weevil Eye LED Bug
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RqrsvF4pcRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Guide:
 <a href="https://cdn.sparkfun.com/datasheets/Kits/Weevil_Eye_KitCard-07-Online_only.pdf"> Link </a>
 
