@@ -28,7 +28,7 @@ Image from modifcation:
 
 Overview:
 
-For milestone 3, I desgined my project to be able to draw a custom image. I took an image from the web, made the g-code for it, and uploaded it to my grbl software.
+For milestone 3, I desgined my project to be able to draw a custom image. I took an image from the web, made the g-code for it, and uploaded it to my grbl software. With this milestone complete, the pen plotter could do anything from writing text, to drawing cars. It was able to accomplish these tasks in rapid speed, averaging roughly 10-15 minutes.
 
 Design:
 
