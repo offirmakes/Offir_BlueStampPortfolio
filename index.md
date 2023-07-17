@@ -59,7 +59,7 @@ Altough this process involved a lot of steps, I only faced one major issue. When
 
 Overview:
 
-For milestone 2, I implemented the software invovled with my project so that it can draw a given image. 
+For milestone 2, I implemented the software invovled with my project so that it can draw an image with the g-code given to me. The g-code would tell my pen plotter where to move and what to do. This milestone was also a lot about calibrating the pen plotter and customizing its settings, such as motor and spindle speed.
 
 Design:
 
@@ -75,7 +75,7 @@ While this process may seem simple, I did run into a few issues. At first, it dr
 
 Overview:
 
-For milestone 1, I completed all the hardware invovled with my pen plotter project. This meant that I built all the components, attached them together, and completed all the electrical wiring. 
+For milestone 1, I completed all the hardware invovled with my pen plotter project. This meant that I built all the components, attached them together, and wired all the electrical parts together. With this milestone complete, I had a fully built pen plotter.
 
 Design:
 
