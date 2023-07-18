@@ -28,7 +28,7 @@ Image from modifcation:
 
 Overview:
 
-For milestone 3, I desgined my project to be able to draw a custom image. I took an image from the web, made the g-code for it, and uploaded it to my grbl software. With this milestone complete, the pen plotter could do anything from writing text, to drawing cars. It was able to accomplish these tasks in rapid speed, averaging roughly 10-15 minutes.
+For milestone 3, I desgined my project to be able to draw a custom image. I took an image from the web, made the g-code for it, and uploaded it to my grbl software. With this milestone complete, the pen plotter could do anything from writing text, to drawing cars. The g-code would direct the pen plotter where to go and wether to lift the servo motor up or not. It was able to accomplish these tasks in rapid speed, averaging roughly 10-15 minutes.
 
 Design:
 
@@ -59,7 +59,7 @@ Altough this process involved a lot of steps, I only faced one major issue. When
 
 Overview:
 
-For milestone 2, I implemented the software invovled with my project so that it can draw an image with the g-code given to me. The g-code would tell my pen plotter where to move and what to do. This milestone was also a lot about calibrating the pen plotter and customizing its settings, such as motor and spindle speed.
+For milestone 2, I implemented the software invovled with my project so that it can draw an image with the g-code given to me. The g-code would tell my pen plotter where to move and what to do. This milestone was also a lot about calibrating the pen plotter and customizing its settings, such as motor and spindle speed. I used the candle.exe rgbl software to control the pen plotter. RGBL is just an open source software which is designed to control cnc machines.
 
 Design:
 
@@ -74,11 +74,11 @@ While this process may seem simple, I did run into a few issues. At first, it dr
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OKzIARZuX_Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Guide:
-<a href="https://drive.google.com/file/d/11kLm7t8QtL4-lCXjlgG20eg_sV6XhBYr/view?usp=sharing"> Link </a>
+<a href="https://cdn.sparkfun.com/datasheets/Kits/Weevil_Eye_KitCard-07-Online_only.pdf"> Link </a>
 
 Overview:
 
-For milestone 1, I completed all the hardware invovled with my pen plotter project. This meant that I built all the components, attached them together, and wired all the electrical parts together. With this milestone complete, I had a fully built pen plotter.
+For milestone 1, I completed all the hardware invovled with my pen plotter project. This meant that I built all the components, attached them together, and wired all the electrical parts together. I had to tighten screws and connect the ddifferent steel parts together. With this milestone complete, I had a fully built pen plotter.
 
 Design:
 
