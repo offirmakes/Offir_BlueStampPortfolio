@@ -74,7 +74,7 @@ While this process may seem simple, I did run into a few issues. At first, it dr
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OKzIARZuX_Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Guide:
-<a href="https://cdn.sparkfun.com/datasheets/Kits/Weevil_Eye_KitCard-07-Online_only.pdf"> Link </a>
+<a href="https://drive.google.com/file/d/11kLm7t8QtL4-lCXjlgG20eg_sV6XhBYr/view?usp=sharing"> Link </a>
 
 Overview:
 
